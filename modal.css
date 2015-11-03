@@ -1,0 +1,13 @@
+.modal-wrapper {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: rgba(218, 218, 218, .8);
+	z-index: 998;
+}
+
+.modal {
+	position: fixed;
+	z-index: 999;
+}
